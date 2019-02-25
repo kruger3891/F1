@@ -137,5 +137,4 @@ public class Road extends JPanel implements ActionListener, Runnable {
 		}
 
 	}
-
 }
